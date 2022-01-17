@@ -22,6 +22,8 @@ Switch to the `/my-inventory`, or main directory and run:
 
 Navigate to `http://localhost:3000/`
 
+To shut down both servers, hit `ctrl+c` in the `/my-inventory` directory, as well as the `/my-inventory/backend` directory.
+
 ### Usage
 
 Usage of this application is for entertainment and educational purposes.
